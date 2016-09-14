@@ -1,0 +1,6 @@
+Week 3 Todo List:
+* Download and Setup Ruby (See: http://railsinstaller.org/en - Don't use if on MacOS X Mavericks)
+* Write a Hello World ruby program and run it locally.
+* Look at directory.rb from the git repository and understand how it works.
+* Modify content.txt with your own information.
+* Modify directory.rb to create a customized webpage using the text information in content.txt
